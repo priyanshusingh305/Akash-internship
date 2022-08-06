@@ -1,0 +1,23 @@
+/* @import url('http://fonts.cdnfonts.com/css/google-sans'); */
+@font-face {
+    font-family: "SamsungOne";
+    src: url("./components/utils/samsungone-cufonfonts/SamsungOne-400.ttf") 
+  }
+*{
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    
+}
+body{  
+    overflow-x: hidden;
+     overflow-y:scroll;
+    font-family: 'SamsungOne',arial,sans-serif;
+}
+
+.cls{
+    height:1000vh ;
+    background-color: purple;
+}
